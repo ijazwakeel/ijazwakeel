@@ -1,62 +1,47 @@
-<div align="center">
-
-# Ijaz Wakeel
-
-### Software Engineer
-
-**Full-Stack MERN & Next.js Developer • Node.js Backend Specialist**
-
-Building scalable, secure, and production-ready web applications.
-
-[LinkedIn](https://linkedin.com/in/ijazwakeel) •
-[Email](mailto:ijazwakeel.dev@gmail.com)
-
-</div>
-
----
-
 ## About
 
-I'm a Software Engineer specializing in backend engineering and full-stack JavaScript development.
+I'm a Software Engineer focused on building scalable backend systems and production-ready full-stack web applications.
 
-My primary focus is building scalable APIs, secure authentication systems, real-time applications, and production-ready web platforms using modern technologies.
+My expertise includes designing secure RESTful APIs, authentication and authorization systems, real-time applications, database architecture, payment integrations, and backend services using modern JavaScript technologies.
 
-I enjoy solving complex engineering problems through clean architecture, maintainable code, and continuous learning.
+I enjoy solving complex engineering problems through clean architecture, maintainable code, performance optimization, and continuous learning.
 
 ---
 
 ## Tech Stack
 
-### Frontend
-
-React.js • Next.js • JavaScript • Tailwind CSS • HTML • CSS
-
-### Backend
-
-Node.js • Express.js • REST APIs • JWT • WebSockets
-
-### Database
-
-MongoDB • Mongoose • Redis
-
-### DevOps & Tools
-
-Docker • Git • GitHub • Postman
-
----
-
-## GitHub Stats
-
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ijazwakeel&show_icons=true&theme=transparent&hide_border=true"/>
-
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,mongodb,redis,docker,git,github,tailwind,js,html,css,postman" />
 </p>
 
 ---
 
-<div align="center">
+## Core Expertise
 
-Thanks for visiting my profile.
+- Backend Engineering
+- Full-Stack Web Development
+- REST API Development
+- Authentication & Authorization
+- Database Design
+- Real-Time Applications
+- Performance Optimization
+- Clean Architecture
 
-</div>
+---
+
+## Current Focus
+
+- Scalable Backend Systems
+- Redis
+- Docker
+- System Design
+- Cloud Technologies
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ijazwakeel&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijazwakeel&layout=compact&theme=transparent&hide_border=true" />
+</p>
