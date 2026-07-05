@@ -8,11 +8,55 @@ I enjoy solving complex engineering problems through clean architecture, maintai
 
 ---
 
-## Tech Stack
+## Technologies I Work With
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,mongodb,redis,docker,git,github,tailwind,js,html,css,postman" />
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" width="42" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="42" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=js" width="42" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="42" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=html" width="42" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" width="42" alt="CSS3" />
 </p>
+
+**React.js • Next.js • JavaScript (ES6+) • Tailwind CSS • HTML5 • CSS3**
+
+---
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="42" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" width="42" alt="Express.js" />
+</p>
+
+**Node.js • Express.js • REST APIs • Authentication & Authorization • JWT • WebSockets**
+
+---
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="42" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=redis" width="42" alt="Redis" />
+</p>
+
+**MongoDB • Mongoose ODM • Redis**
+
+---
+
+### DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" width="42" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=git" width="42" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=postman" width="42" alt="Postman" />
+</p>
+
+**Docker • Git • GitHub • Postman**
 
 ---
 
@@ -29,19 +73,10 @@ I enjoy solving complex engineering problems through clean architecture, maintai
 
 ---
 
-## Current Focus
+## Currently Exploring
 
-- Scalable Backend Systems
+- Distributed Systems
 - Redis
 - Docker
 - System Design
-- Cloud Technologies
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ijazwakeel&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijazwakeel&layout=compact&theme=transparent&hide_border=true" />
-</p>
+- Cloud Infrastructure
