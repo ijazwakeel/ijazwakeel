@@ -1,87 +1,96 @@
-# Hi, I'm Ijaz Wakeel 👋
+<div align="center">
 
-Software Engineer specializing in Full-Stack MERN & Next.js development with a strong focus on Node.js backend engineering.
+# Ijaz Wakeel
 
-I build scalable, secure, and production-ready web applications using modern JavaScript technologies. My experience includes designing backend architectures, developing RESTful APIs, implementing authentication systems, integrating payment gateways, and building real-time applications for businesses across multiple industries.
+### Software Engineer
 
----
+**Full-Stack MERN & Next.js Developer • Node.js Backend Specialist**
 
-## About Me
+Building scalable, secure, and high-performance web applications.
 
-- Software Engineer
-- Full-Stack MERN & Next.js Developer
-- Node.js Backend Specialist
-- Passionate about scalable backend architecture
-- Continuously learning System Design, Redis, Docker, and Cloud Technologies
-
----
-
-## Tech Stack
-
-### Frontend
-
-- React.js
-- Next.js
-- JavaScript (ES6+)
-- Tailwind CSS
-- HTML5
-- CSS3
-
-### Backend
-
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
-- Role-Based Access Control (RBAC)
-- WebSockets
-
-### Database
-
-- MongoDB
-- Mongoose ODM
-- Redis
-
-### DevOps & Tools
-
-- Git
-- GitHub
-- Docker
-- Postman
+<p>
+<a href="https://linkedin.com/in/ijazwakeel">LinkedIn</a> •
+<a href="mailto:ijazwakeel.dev@gmail.com">Email</a> •
+<a href="https://github.com/ijazwakeel">GitHub</a>
+</p>
 
 ---
 
-## Featured Projects
+## ⚡ Tech Stack
 
-### Full-Stack E-Commerce Platform
-A production-ready e-commerce platform featuring secure authentication, admin dashboard, payment integration, product management, and scalable backend architecture.
+<p>
 
-### Learning Management System (LMS)
-A comprehensive education platform with student and admin dashboards, course management, lead management, secure authentication, and integrated payment processing.
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,mongodb,redis,docker,git,github,tailwind,js" />
 
-### WhatsApp Automation Platform
-A real-time messaging platform built using Baileys, WebSockets, and Node.js to automate business communication workflows.
-
-### Point of Sale (POS) System
-A business management solution with inventory tracking, order processing, and administrative controls.
+</p>
 
 ---
 
-## Currently Learning
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🛒 **Manjil** | Production-ready Full-Stack E-Commerce Platform with authentication, payment integration, admin dashboard, inventory management and scalable backend architecture. |
+| 🎓 **CourseScope LMS** | Learning Management System featuring Admin Dashboard, Student Portal, Lead Management, Course Management and Payment Integration. |
+| 💬 **WhatsApp Automation** | Real-time messaging platform built using Node.js, Baileys, Express.js and WebSockets. |
+| 🏥 **Healthcare Platform** | Appointment scheduling and patient management platform with authentication and administrative dashboard. |
+
+---
+
+## 📚 Currently Learning
 
 - Redis
 - Docker
 - TypeScript
 - System Design
-- Cloud Architecture
+- Cloud Technologies
 
 ---
 
-## Connect With Me
+## 📊 GitHub Statistics
 
-- LinkedIn: https://linkedin.com/in/ijazwakeel
-- GitHub: https://github.com/ijazwakeel
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ijazwakeel&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijazwakeel&layout=compact&hide_border=true&theme=transparent"/>
+
+</p>
 
 ---
 
-> Building software that is secure, scalable, and designed for real-world business problems.
+## 🎯 Engineering Principles
+
+✔ Clean Architecture
+
+✔ Scalable Backend Systems
+
+✔ Security First
+
+✔ Performance Focused
+
+✔ Continuous Learning
+
+---
+
+<div align="center">
+
+### Let's Connect
+
+<a href="https://linkedin.com/in/ijazwakeel">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ijazwakeel.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Building software that is secure, scalable, and designed for real-world impact."*
+
+</div>
