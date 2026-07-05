@@ -6,10 +6,12 @@
 
 **Full-Stack MERN & Next.js Developer • Node.js Backend Specialist**
 
-Building scalable, secure, and production-ready web applications.
+Building scalable backend systems and production-ready web applications with modern JavaScript technologies.
 
-[LinkedIn](https://linkedin.com/in/ijazwakeel) •
-[Email](mailto:ijazwakeel.dev@gmail.com)
+<p>
+<a href="https://linkedin.com/in/ijazwakeel">LinkedIn</a> •
+<a href="mailto:ijazwakeel.dev@gmail.com">Email</a>
+</p>
 
 </div>
 
@@ -19,7 +21,7 @@ Building scalable, secure, and production-ready web applications.
 
 I'm a Software Engineer specializing in backend engineering and full-stack JavaScript development.
 
-My primary focus is building scalable APIs, secure authentication systems, real-time applications, and production-ready web platforms using modern technologies.
+My expertise lies in designing scalable backend architectures, developing secure RESTful APIs, implementing authentication systems, integrating payment gateways, and building real-time web applications using modern JavaScript technologies.
 
 I enjoy solving complex engineering problems through clean architecture, maintainable code, and continuous learning.
 
@@ -27,36 +29,44 @@ I enjoy solving complex engineering problems through clean architecture, maintai
 
 ## Tech Stack
 
-### Frontend
-
-React.js • Next.js • JavaScript • Tailwind CSS • HTML • CSS
-
-### Backend
-
-Node.js • Express.js • REST APIs • JWT • WebSockets
-
-### Database
-
-MongoDB • Mongoose • Redis
-
-### DevOps & Tools
-
-Docker • Git • GitHub • Postman
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,mongodb,redis,docker,git,github,tailwind,js,html,css,postman" />
+</p>
 
 ---
 
-## GitHub Stats
+## Focus Areas
+
+- Backend Engineering
+- Scalable REST API Development
+- Authentication & Authorization
+- Real-Time Applications
+- Database Design
+- Performance Optimization
+- Clean Architecture
+- Full-Stack Web Development
+
+---
+
+## GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ijazwakeel&show_icons=true&theme=transparent&hide_border=true"/>
-
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ijazwakeel&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijazwakeel&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
 ---
 
 <div align="center">
 
-Thanks for visiting my profile.
+### Let's Connect
+
+<a href="https://linkedin.com/in/ijazwakeel">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ijazwakeel.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
